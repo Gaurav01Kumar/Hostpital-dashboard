@@ -1,0 +1,22 @@
+export const dashBoardCardData=[
+    {
+        id:0,
+        title:"Projects",
+        stats:48
+    },
+    {
+        id:1,
+        title:"Team",
+        stats:40
+    },
+    {
+        id:2,
+        title:"Clients",
+        stats:18
+    },
+    {
+        id:3,
+        title:"Sellers",
+        stats:98
+    },
+]
